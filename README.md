@@ -1,12 +1,13 @@
 
-<h1 align="center"><b>Hi , I'm Célio di Pace Terceiro </b></h1>
+<h1 align="center"><b>Hi , I'm Celio di Pace</b></h1>
 <br>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <br>
 
-Software Developer with over three years of experience, solid background in Analysis and Systems Development. I have skills in PHP, C#, Java, and proficiency in tools such as Git, Docker, and AWS. I am committed to quality, applying agile practices, and staying updated with the latest market trends. Fluent in Portuguese and English, I am passionate about contributing to innovative projects in the world of technology.
+Software Engineer with over three years of experience and solid background in Analysis and Systems Development. Proficient in tools such as PHP, C#, Java, Git, Docker and Cloud Computing. 
+I am committed to delivering high quality, testable and reusable code and thrived in a team environment, fostering open communication and cooperation. I am passionate about contributing to innovative projects in the world of technology.
 
 <br><br>
 
